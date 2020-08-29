@@ -15,5 +15,3 @@ def reverse_each_word(strings)
   end
   another_array.join(" ")
 end
-
-reverse_each_word(" ")
